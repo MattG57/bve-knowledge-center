@@ -1,25 +1,23 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
+    - title: "Introduction to the BVE Knowledge Center"
       url: "docs/getting-started"
       children:
         - title: Features
           url: "docs/getting-started#getting-started"
         - title: Development
-          url: "docs/getting-started#development"
+          url: "docs/getting-started#scope"
         - title: Customization
-          url: "docs/getting-started#customization"
+          url: "docs/getting-started#more-information"
     - title: Versioning
       url: "docs/versioning"
     - title: "About"
       url: "about"
-    - title: "News"
-      url: "news"
 - title: "Extras"
   url: "docs/extras"
   links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
+    - title: Examples
+      url: "docs/extras/examples"
     - title: Tags Page
       url: "tags"
