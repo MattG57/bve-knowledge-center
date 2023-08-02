@@ -112,3 +112,21 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: "explainers"
+      type: "explainers"
+    values:
+      layout: "explainer"
+  -
+    scope:
+      path: "products"
+      type: "products"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: "themes"
+      type: "themes"
+    values:
+      layout: "theme"

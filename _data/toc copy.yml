@@ -28,14 +28,5 @@
   links:
     - title: Speed & Security
       url: "explainers/speed-and-security"
-- title: "Products"
-  url: "products"
-  links:
-    - title: Speed & Security
-      url: "explainers/speed-and-security"
-- title: "Themes"
-  url: "themes"
-  links:
-    - title: Speed & Security
-      url: "explainers/speed-and-security"
-      
+    - title: Tags Page
+      url: "tags"
