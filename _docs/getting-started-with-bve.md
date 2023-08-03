@@ -1,4 +1,3 @@
-
 ---
 title: Getting Started with BVE
 tags: 
@@ -13,8 +12,9 @@ description: Getting started with Business Value Engineering
 <style>
 .indented img {
   border: 1px solid black; 
-  width: 700px;
-  height: 700px;
+  width: 900px;
+  height: 600px;
+  margin-left: 75px;
 }
 </style>
 
