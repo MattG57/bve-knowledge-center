@@ -1,3 +1,11 @@
+---
+title: Development Speed and Code Security
+tags: 
+ - Explainer
+ - Security
+description: Getting started with Business Value Engineering
+---
+
 ### Development Speed and Code Security
 @MattG57
 <style>
