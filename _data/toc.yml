@@ -2,27 +2,18 @@
   url: docs
   links:
     - title: "Getting Started"
-      url: "docs/getting-started"
+      url: "docs/getting-started-with-bve"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: Versioning
-      url: "docs/versioning"
+        - title: What is Business Value Engineering
+          url: "docs/getting-started-with-bve#What is Business Value Engineering?"
+        - title: Account Team Guidance
+          url: "docs/getting-started-with-bve#account-team-guidance"
+        - title: Customer Guidance
+          url: "docs/getting-started-with-bve#customer-guidance"
+        - title: Relevant Resources
+          url: "docs/getting-started-with-bve#customization"
     - title: "About"
       url: "about"
-    - title: "News"
-      url: "news"
-- title: "Extras"
-  url: "docs/extras"
-  links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
 - title: "Explainers"
   url: "explainers"
   links:
@@ -38,4 +29,10 @@
   links:
     - title: Speed & Security
       url: "explainers/speed-and-security"
-      
+- title: "Extras"
+  url: "docs/extras"
+  links:
+    - title: Quizzes
+      url: "docs/extras/example-quiz"
+    - title: Tags Page
+      url: "tags"      
