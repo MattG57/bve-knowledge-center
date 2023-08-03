@@ -1,3 +1,4 @@
+
 ---
 title: Getting Started with BVE
 tags: 
@@ -6,9 +7,16 @@ tags:
 description: Getting started with Business Value Engineering
 ---
 
+
 # Getting Started with Business Value Engineering
 
-
+<style>
+.indented img {
+  border: 1px solid black; 
+  width: 700px;
+  height: 700px;
+}
+</style>
 
 ## 🔭 What is Business Value Engineering?
 _Quantifying Value With BVE, Authors: Matthew Gunter_
@@ -37,7 +45,9 @@ To calculate the improvement potential, a before vs after comparison is created 
 - Structural Viewpoint: Understand and clarify how the improvements structurally improve what the organization can do in terms of increasing the options for being responsive or by for coordinating parallel efforts. This can be thought of as “structural leverage” (e.g. Ability to adapt)
 Decision-Quality Viewpoint (Not Shown): Measures the benefits of the anticipated changes on improving Optionality, Predictable Execution, and Decision-Quality over time.
 
-![Business Value Viewpoints](/bve-knowledge-center/assets/img/business-value-viewpoints.png)
+<span class="indented">
+  <img src="/bve-knowledge-center/assets/img/business-value-viewpoints.png"> 
+</span>
 * * * *
 
 ### Account-Team-Guidance
