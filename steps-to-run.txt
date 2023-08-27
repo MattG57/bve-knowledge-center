@@ -1,4 +1,4 @@
 $bundle install
 $bundle 
-
+$bundle exec  jekyll serve --livereload 
 >>open forwarded port in a browser tab and go to host:port/bve-knowledge-center/

@@ -26,7 +26,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/bve-knowledge-center" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://mattg57.github.io" # the base hostname & protocol for your site
+#url: "https://mattg57.github.io" # the base hostname & protocol for your site
+url: "https://mattg57-animated-space-memory-6x4v4pxq6rph55x9-4000.app.github.dev"
 
 # Social (First three Required)
 repo: "https://github.com/mattg57/bve-knowledge-center"
