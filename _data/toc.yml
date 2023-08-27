@@ -14,21 +14,51 @@
           url: "docs/getting-started-with-bve#customization"
     - title: "About"
       url: "about"
-- title: "Explainers"
+- title: "By Outcome"
   url: "explainers"
   links:
     - title: Speed & Security
       url: "explainers/speed-and-security"
-- title: "Products"
+    - title: Prioritizing Lifecycle Costs in Automation
+      url: "explainers/prioritizing-lifecycle-costs-in-automation-assets"
+- title: "By Persona"
+  url: "explainers"
+  links:
+    - title: Speed & Security
+      url: "explainers/speed-and-security"
+    - title: Prioritizing Lifecycle Costs in Automation
+      url: "explainers/prioritizing-lifecycle-costs-in-automation-assets"
+- title: "By Maturity Level"
+  url: "explainers"
+  links:
+    - title: Beginner
+      url: "explainers/speed-and-security"
+    - title: Intermediate
+      url: "explainers/prioritizing-lifecycle-costs-in-automation-assets"
+    - title: Expert
+      url: "explainers/prioritizing-lifecycle-costs-in-automation-assets" 
+- title: "By Product"
   url: "products"
   links:
     - title: Speed & Security
       url: "explainers/speed-and-security"
-- title: "Themes"
+- title: "By Themes"
   url: "themes"
   links:
-    - title: Speed & Security
+    - title: Prioritizing Speed & Security1
       url: "explainers/speed-and-security"
+    - title: Prioritizing Lifecycle Costs & Compute Costs
+      url: "explainers/speed-and-security"
+    - title: Prioritizing Productive Capacity for Developers
+      url: "explainers/speed-and-security"  
+    - title: Prioritizing Visibility, Policy enforcement, and Decision-making
+      url: "explainers/speed-and-security"  
+    - title: Prioritizing Collaboration & Reuse
+      url: "explainers/speed-and-security"
+    - title: Prioritizing Developer Learning & Local Decision-making
+      url: "explainers/speed-and-security"  
+    - title: Prioritizing Low Transaction Costs, Self-service, and Zero-Defects
+      url: "explainers/speed-and-security" 
 - title: "Extras"
   url: "docs/extras"
   links:
